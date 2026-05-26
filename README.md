@@ -1,5 +1,5 @@
 # About Me:
-C++ developer from Jacksonville, Florida, with a strong focus on security and privacy.<br>I enjoy diving deep into systems programming and cryptography, crafting high-performance tools with clean, efficient code.<br>Constantly learning new techniques to write safer, faster software and contribute to a more secure digital world.
+C++ developer based in Jacksonville, Florida, with a strong focus on security and privacy.<br>I enjoy diving deep into systems programming and cryptography, crafting high-performance tools with clean, efficient code.<br>Constantly learning new techniques to write safer, faster software and contribute to a more secure digital world.
 
 
 ## Socials:
